@@ -1,4 +1,4 @@
-# Upnorway Insider App Automated Tests
+# Upnorway Partner App Automated Tests
 
 Steps to run the test:
 ----------------------
