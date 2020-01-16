@@ -33,8 +33,6 @@ src/test/resources/properties/db-delete-test-automation-records.sql
 XPATHs of elements:
 src/test/resources/properties/OR.properties
 
-Email configuration for sending and receiving reports:
-src/test/java/com/sliit/utilities/TestConfig.java
 
 Test report document configuration:
 src/test/resources/extentconfig/ReportsConfig.xml
